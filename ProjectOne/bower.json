@@ -1,0 +1,21 @@
+{
+  "name": "MyBootstrapApp",
+  "homepage": "https://github.com/Yarely58/DAW-SANDY",
+  "authors": [
+    "Yarely58 <adriz.orea5812@gmail.com>"
+  ],
+  "description": "How to use Boostrap Framework",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "fontawesome": "^5.0.13"
+  }
+}
