@@ -1,10 +1,10 @@
 {
   "name": "MyBootstrapApp",
-  "homepage": "https://github.com/Yarely58/DAW-SANDY",
+  "homepage": "https://github.com/JUANANTONIO24/DAW_JUAN_ANTONIO",
   "authors": [
-    "Yarely58 <adriz.orea5812@gmail.com>"
+    "JUANANTONIO24 <juan_antoniobets240@hotmail.com>"
   ],
-  "description": "How to use Boostrap Framework",
+  "description": "How to use bootstrap framework",
   "main": "index.html",
   "license": "MIT",
   "ignore": [
@@ -15,7 +15,7 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "^4.1.1",
+    "boostrap": "^4.1.1",
     "fontawesome": "^5.0.13"
   }
 }
